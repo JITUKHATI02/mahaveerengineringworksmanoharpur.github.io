@@ -237,12 +237,12 @@ header{ top: 0;
 
 }
 @keyframes home-slide {
-    0%{ background-image: url(/bg-home-1.jpg);}
-    20%{ background-image: url(/bg-home-4.JPG);}
-    40%{ background-image: url(/bg-home-3.jpg);}
-    60%{ background-image: url(/bg-home-4.JPG);}
-    80%{ background-image: url(/bg-home-5.jpg);}
-    100%{ background-image: url(/bg-home-1.jpg);}
+    0%{ background-image: url(https://jitukhati02.github.io/mahaveerengineringworksmanoharpur.github.io/bg-home-1.jpg);}
+    20%{ background-image: url(https://jitukhati02.github.io/mahaveerengineringworksmanoharpur.github.io/bg-home-4.JPG);}
+    40%{ background-image: url(https://jitukhati02.github.io/mahaveerengineringworksmanoharpur.github.io/bg-home-3.jpg);}
+    60%{ background-image: url(https://jitukhati02.github.io/mahaveerengineringworksmanoharpur.github.io/bg-home-4.JPG);}
+    80%{ background-image: url(https://jitukhati02.github.io/mahaveerengineringworksmanoharpur.github.io/bg-home-5.jpg);}
+    100%{ background-image: url(https://jitukhati02.github.io/mahaveerengineringworksmanoharpur.github.io/bg-home-1.jpg);}
     
 }
 
@@ -307,17 +307,17 @@ border-radius: 10px;
     height: 400px;
     margin: 20px;
     padding: 10px;
-    /* background-image: url(/img/multi-crop-standing-roller-thresher-machine-1000x1000.jpg); */
+    /* background-image: url(https://jitukhati02.github.io/mahaveerengineringworksmanoharpur.github.io/multi-crop-standing-roller-thresher-machine-1000x1000.jpg); */
     background:  no-repeat;
 background-size: 100% 100%;
 animation: item-img-slider 10s infinite linear;
 }
 @keyframes item-img-slider {
 
-0%{   background-image: url(/multi-crop-standing-roller-thresher-machine-500x500.jpg);   }
-50%{  background-image: url(/multi-crop-standing-roller-thresher-machine-500x500.jpg);   }
-55%{  background-image: url(/multi-crop-standing-roller-thresher-machine-1000x1000.jpg);   }
-100%{  background-image: url(/multi-crop-standing-roller-thresher-machine-1000x1000.jpg);   }
+0%{   background-image: url(https://jitukhati02.github.io/mahaveerengineringworksmanoharpur.github.io/multi-crop-standing-roller-thresher-machine-500x500.jpg);   }
+50%{  background-image: url(https://jitukhati02.github.io/mahaveerengineringworksmanoharpur.github.io/multi-crop-standing-roller-thresher-machine-500x500.jpg);   }
+55%{  background-image: url(https://jitukhati02.github.io/mahaveerengineringworksmanoharpur.github.io/multi-crop-standing-roller-thresher-machine-1000x1000.jpg);   }
+100%{  background-image: url(https://jitukhati02.github.io/mahaveerengineringworksmanoharpur.github.io/multi-crop-standing-roller-thresher-machine-1000x1000.jpg);   }
     
 }
 .item-text  {background-color: white;}
