@@ -230,7 +230,7 @@ header{ top: 0;
     margin: auto;
     display: grid;
    place-items: center;
-   background-image: url(/bg-home-1.jpg);
+   background-image: url(https://jitukhati02.github.io/mahaveerengineringworksmanoharpur.github.io/bg-home-1.jpg);
    background-size: cover;
    background-attachment: fixed;
    animation: home-slide 20s infinite alternate-reverse;
