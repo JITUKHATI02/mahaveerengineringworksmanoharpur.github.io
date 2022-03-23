@@ -5,8 +5,8 @@ font-family: 'Titillium Web', sans-serif;
 
 */
 *{
-    margin: 0%;
-    padding: 0%;
+    margin: 0;
+    padding: 0;
     font-family: 'Josefin Sans', sans-serif;
 }
 
@@ -45,11 +45,11 @@ h1{
 @keyframes btn-color { 
 
     
-       0%{background-color: #9ea9af;         }
-      20%{background-color: #778e9b;           }
+       0%{background-color: #9ea9af;     }
+      20%{background-color: #778e9b;     }
       40%{background-color: #5489a5;     }
-      60%{background-color: #1f729e;             }
-      80%{background-color: #03669c;            }    
+      60%{background-color: #1f729e;     }
+      80%{background-color: #03669c;     }    
 }
 
 .div-heading-box{
@@ -115,15 +115,15 @@ header{ top: 0;
     width: 20px;
     cursor: pointer;
 }
-.searchbar input{
-     width: 10vw; 
-    opacity: 0;
-    display: none;
 
-}
-.search-active{
-    transform: translateX(-100%);
-}
+
+
+
+
+
+
+  
+
 
 
 /*   burger    ------------------------------------------- */
@@ -475,6 +475,8 @@ padding-top: 5px;
 
 
 @media only screen and (max-width: 768px) {
+    *{margin:0;
+    padding:0;}
     html{
            scroll-padding-top: 10vh;
     }
@@ -525,6 +527,7 @@ display: block;
 }
 .footer-nav{
     display: block;
+    font-size:20px;
     
 }
 .inputdiv{
@@ -532,7 +535,7 @@ display: block;
     margin: auto;
 }
 .footer-nav input{
-    width: 60vw;
+    width: 50vw;
 }
 
    
